@@ -13,9 +13,9 @@ public class demo{
       }
 
 public static double celsiusToFahrenheit (double c){
-  return ((9 * c) / 5 + 32)
+  return ((9 * c) / 5 + 32);
 }
 
 public static double FahrenheitToCelsius (double f){
-  return ((5 * f) / 9 - 32)
+  return ((5 * f) / 9 - 32);
 }
