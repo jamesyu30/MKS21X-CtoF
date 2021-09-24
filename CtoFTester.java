@@ -1,6 +1,6 @@
 //the parameters are celsius and fahrenheit. They should both be doubles and should return either celsius or fahrenheit.
 
-public class demo{
+public class CtoFTester{
       public static void main(String[] args){
 
         System.out.println(" ");
